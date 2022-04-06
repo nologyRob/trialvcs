@@ -14,6 +14,8 @@ public class Main {
                 " Press 1 to show an integer\n Press 2 to show a double\n Press 3 to show a float\n"
         );
 
+        System.out.println("This is a new trial");
+
         int choice = input.nextInt();
 
     }
